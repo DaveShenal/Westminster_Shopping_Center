@@ -1,0 +1,44 @@
+E#A1034#Laptop#1799.99#17#Asus#12
+E#A1234#Laptop#579.99#7#ASUS#24
+E#A4242#Monitor#349.99#4#Dell#36
+C#B1234#Shirt#12.99#20#M#Black
+E#B4240#S23 Ultra#1099.99#22#Samsung#12
+C#B4258#T-Shirt#15.99#7#L#Green
+E#B9974#Macbook Air#1399.99#23#Apple#6
+E#C4243#TV#1599.99#4#Panasonic#24
+C#D3456#Shirt#12.0#3#M#Red
+C#D4259#Short#12.99#5#S#Black
+E#E4244#Smartphone#699.99#8#OnePlus#12
+C#E5555#Trouser#43.9#8#S#Black
+E#F1834#TV#1299.99#6#Sony#24
+E#F2367#TV#499.9#5#LG#24
+C#F4260#Hoodie#39.99#4#M#Gray
+E#F4532#Laptop#345.0#4#ASUS#12
+C#G1112#Shirt#13.0#17#L#Red
+C#G3455#Trouser#53.98#8#M#White
+C#G3456#Denim#64.89#2#M#Blue
+E#G4245#Tablet#449.99#6#Samsung#24
+C#H1234#Shirt#23.0#4#M#Red
+C#H4261#Polo Shirt#29.99#7#L#White
+C#H6656#Denim#69.99#2#M#Black
+E#I1234#Monitor#799.99#14#LG#36
+C#I3056#Shirt#18.9#12#S#Green
+E#J9974#Macbook Pro#2099.99#12#Apple#24
+C#M1456#T-Shirt#18.99#6#M#Red
+E#N3453#Laptop#23.0#3#ASUS#24
+C#N3456#T-Shirt#19.9#6#M#White
+C#P0456#Shirt#24.5#6#S#Black
+E#P8907#Laptop#577.99#10#Lenovo#24
+C#Q6678#Denim#14.99#4#L#Black
+E#R4445#Smart Phone#399.0#1#Asus#6
+E#R4834#Monitor#299.99#4#MSI#36
+E#S1414#Laptop#450.89#17#Lenovo#24
+E#S1834#TV#1799.99#3#Samsung#24
+E#S2345#Tv#345.0#3#LG#12
+C#T0456#Short#14.87#7#M#Black
+E#T5678#TV#599.99#16#LG#24
+E#W2345#TV#499.99#4#LG#12
+C#W3006#Denim Jacket#49.99#2#L#Black
+E#X4240#Pixel 8 Pro#899.99#23#Google#12
+E#Y4241#Laptop#949.99#24#HP#24
+C#Z4257#Jeans#59.99#3#L#Blue
